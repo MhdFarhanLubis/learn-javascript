@@ -15,10 +15,10 @@ document.writeln("<br>");
 
 // escape sequences
 document.writeln("<textarea cols='100' rows='10'>");
-document.writeln("Mhd. Farhan Lubis");
-document.writeln("Index...........");
-document.writeln("Muhammadiyah University of Surakarta");
-document.writeln("Learn Javascript Fundamentals");
+document.writeln("Mhd. \nFarhan \nLubis");
+document.writeln(".\\Home\\Farhan\n");
+document.writeln('"Muhammadiyah University of Surakarta"\n');
+document.writeln("'Learn Javascript Fundamentals'\n");
 document.writeln("</textarea>");
 
 document.writeln("<br>");
